@@ -69,7 +69,7 @@ class ProductAddState extends State {
       ),
       child: Text(
         "add",
-        style: TextStyle(color: Colors.white), // Metin rengini beyaz olarak belirliyoruz
+        style: TextStyle(color: Colors.white), // We set the text color to white
       ),
     );
   }
